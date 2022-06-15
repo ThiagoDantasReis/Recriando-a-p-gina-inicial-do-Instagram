@@ -1,2 +1,2 @@
-# Recriando-a-p-gina-inicial-do-Instagram
+# Recriando-a-pagina-inicial-do-Instagram
 Desafio DIO
