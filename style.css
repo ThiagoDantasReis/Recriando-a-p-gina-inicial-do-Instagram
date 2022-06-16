@@ -8,8 +8,8 @@
 }
 
 body {
-    width: 100%;
-    min-height: 100vh;    
+    width: 70%;
+    min-height: 90vh;    
     background-color: #fafafa;
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -34,7 +34,7 @@ body {
 }
 
 .instagram-phone img {
-    height: 40rem;
+    height: 30rem;
 }
 
 .instagram-continue {
